@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[15]:
-
-
 from random import randint
 
 print("Welcome to the Geometry Game.")
@@ -62,10 +59,4 @@ print("Your point was inside rectangle: ",
 # Use area method to calculate the guess
 print("Your area is off by: ", 
       rectangle.area() - user_area)
-
-
-# In[ ]:
-
-
-
 
