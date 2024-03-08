@@ -2,8 +2,6 @@
 # coding: utf-8
 
 
-
-
 from fpdf import FPDF
 
 class Bill:
