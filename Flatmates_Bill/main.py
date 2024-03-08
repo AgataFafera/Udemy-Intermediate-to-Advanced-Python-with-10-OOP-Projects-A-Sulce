@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[14]:
-
-
 from flat import Bill, Flatmate
 from reports import PdfReport
         
