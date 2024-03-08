@@ -26,8 +26,6 @@ pdf_report = PdfReport(filename = f"{the_bill.period}.pdf")
 pdf_report.generate(flatmate1, flatmate2, bill = the_bill)
 
 
-# In[ ]:
-
 
 
 
